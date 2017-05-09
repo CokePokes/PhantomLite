@@ -3,7 +3,7 @@ Phantom Lite for Snapchat on jailed devices. (Doesn't require jailbreak)
 
 1. Delete Snapchat if you have it installed
 2. Find a cracked copy of Snapchat you'd like to use. v9.45.10.0+
-3. Download PhantomFiles.zip file here: https://mega.nz/#!Iv5TGDDC!EYM9mxEA1-aH8si7hEK2Jpt3xQMWWp7qSRwAGL417wI
+3. Download PhantomFiles.zip file here: https://mega.nz/#!EmonESLZ!My9QWLUqtR3feJ9g3SZYplbNAYjCwSJ_YLvsFYf1OtY
 4. Rename cracked Snapchat.ipa file to Snapchat.zip & unzip
 5. Copy PhantomFiles.zip to Payload>Snapchat.app & unzip
 6. File structure should look like this:
@@ -11,6 +11,7 @@ Phantom Lite for Snapchat on jailed devices. (Doesn't require jailbreak)
 /Payload/
 	/Snapchat.app/
 		Sys.dylib
+		/PhLite
 		/libloader/
 			genghisChron.dylib
 			CSub
