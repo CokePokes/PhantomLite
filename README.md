@@ -8,13 +8,12 @@ Phantom Lite for Snapchat on jailed devices. (Doesn't require jailbreak)
 5. Copy PhantomFiles.zip to Payload>Snapchat.app & unzip
 6. File structure should look like this:
 ```ruby
-Structure like this:
-    /Payload/
-    	/Snapchat.app/
-		  	Sys.dylib
-	  		/libloader/
-				  genghisChron.dylib
-				  CSub
+/Payload/
+	/Snapchat.app/
+		Sys.dylib
+		/libloader/
+			genghisChron.dylib
+			CSub
 ```
 7. Open Payload>Snapchat.app>Snapchat with a Hex editor (iHex [FREE] from Mac Store works)
 8. Replace all occurrences of string: "/usr/lib/libSystem.B.dylib" with: "@executable_path/Sys.dylib" & save changes
