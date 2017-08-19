@@ -1,12 +1,16 @@
 # PhantomLite
 Phantom Lite for Snapchat on jailed devices. (Doesn't require jailbreak)
 
-Last updated: 08/17/17 (New file structure/directions!) [Link will be always updated on this date]
-Version: 2.1
+Last updated: 08/18/17 (New file structure/directions!) [Link will be always updated on this date]
+Version: 2.2
+
+Changes: 
+-- Fixes startup crash on some devices. (No idea why this happens. Occurs on 5c AFAIK)
+-- Better UDID Validation. No longer requires user to add extra leading 0's to the ECID. 
 
 1. Delete Snapchat if you have it installed
 2. Find a decrypted copy of Snapchat you'd like to use. v10+
-3. Download PhantomFiles_v?.?.zip file here: https://mega.nz/#!d2wVCL6C!ecH620b_oW3XB8BejOFlHtuKLn8KJc1_-ovhAlbRwTo
+3. Download PhantomFiles_v?.?.zip file here: https://mega.nz/#!EnhiRYDZ!mTCRlJK4Tm0Idr9iRh0pXvWbTG3OA4bI9DfcSrQ3TNg
 4. Rename decrypted Snapchat.ipa file to Snapchat.zip & unzip
 5. Copy PhantomFiles_v?.?.zip to Payload>Snapchat.app & unzip
 6. File structure should look like this:
@@ -24,4 +28,4 @@ Version: 2.1
 
 Enjoy!
 
-Ps: MDExMDEwMDAgMDExMTAxMDAgMDExMTAxMDAgMDExMTAwMDAgMDExMTAwMTEgMDAxMTEwMTAgMDAxMDExMTEgMDAxMDExMTEgMDExMDExMDEgMDExMDAxMDEgMDExMDAxMTEgMDExMDAwMDEgMDAxMDExMTAgMDExMDExMTAgMDExMTEwMTAgMDAxMDExMTEgMDAxMDAwMTEgMDAxMDAwMDEgMDExMDAxMTEgMDExMTAwMTAgMDExMTEwMDAgMDExMDEwMTAgMDEwMDAwMDEgMDEwMTAwMDEgMDExMTAwMTAgMDEwMTEwMTAgMDAxMDAwMDEgMDExMTAwMTEgMDExMTAxMDAgMDExMDAwMTEgMDExMDEwMDAgMDExMTEwMDEgMDExMTAxMTEgMDExMTAxMDEgMDExMDExMDEgMDExMTEwMDAgMDExMTAxMDAgMDEwMDAxMTAgMDAxMTAxMDEgMDEwMDEwMDEgMDExMDEwMTEgMDExMDEwMDAgMDExMTAxMDAgMDExMTAwMDEgMDExMTAxMDAgMDEwMTAwMDEgMDExMTEwMTAgMDEwMTEwMDEgMDEwMDExMTEgMDEwMDAwMTEgMDEwMTAxMDAgMDEwMDAxMTEgMDEwMDEwMTAgMDExMTAwMTEgMDAxMDExMDEgMDEwMTAxMDEgMDAxMDExMDEgMDEwMDExMTEgMDExMDAwMTAgMDExMTAxMDEgMDExMDEwMTAgMDEwMDAxMDAgMDExMDAxMTAgMDEwMDExMDAgMDEwMDAxMDEgMDExMDAxMDAgMDEwMTAxMDEgMDEwMTAxMDEgMDExMTEwMDAgMDEwMTAwMDE=
+Ps: ZWE4Mzc2MGMwOWVmNGVlYzUzZWRmYTVmMmM4NmU5MWM2NGYzOThkZQ==
