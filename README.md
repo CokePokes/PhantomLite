@@ -5,7 +5,7 @@ Last updated: 08/18/17 (New file structure/directions!) [Link will be always upd
 Version: 2.2
 
 ```ruby
-Changes:
+Changes in v2.2:
 -- Fixes startup crash on some devices. (No idea why this happens. Occurs on 5c AFAIK)
 -- Better UDID Validation. No longer requires user to add extra leading 0's to the ECID. 
 ```
