@@ -1,7 +1,7 @@
 # PhantomLite
 Phantom Lite for Snapchat on jailed devices. (Doesn't require jailbreak)
 
-Last updated: 09/09/17 [Link will be always updated on this date]
+Last updated: 09/09/17 [Link will be always updated on this date] \n
 Version: 2.3
 
 ```ruby
