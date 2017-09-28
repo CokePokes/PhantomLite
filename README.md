@@ -1,10 +1,14 @@
 # PhantomLite
 Phantom Lite for Snapchat on jailed devices. (Doesn't require jailbreak)
 
-Last updated: 09/09/17 [Link will be always updated on this date]
+Last updated: 09/28/17 [Link will be always updated on this date]
 
-Version: 2.3
+```ruby
+Changes in v2.4:
+-- Snapchat 10.18.0.8 compatibility
+-- Fixes crash when saving Snaps in stories search
 
+```
 ```ruby
 Changes in v2.3:
 -- Fixes ability to save stories
@@ -19,7 +23,7 @@ Changes in v2.2:
 ```
 1. Delete Snapchat if you have it installed
 2. Find a decrypted copy of Snapchat you'd like to use. v10+
-3. Download PhantomFiles_v?.?.zip file here: https://mega.nz/#!QjgTySDQ!nZPqq4EPmUIOEbDvX4YInboyzrFfcH9idzInQHgRv1g
+3. Download PhantomFiles_v?.?.zip file here: https://mega.nz/#!Nug2jQ4D!Q-vVinjS7zI7GBNAQQDRs0Ml5oQfjitKjZX_1F5bnXM
 4. Rename decrypted Snapchat.ipa file to Snapchat.zip & unzip
 5. Copy PhantomFiles_v?.?.zip to Payload>Snapchat.app & unzip
 6. File structure should look like this:
