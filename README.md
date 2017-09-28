@@ -41,4 +41,4 @@ Changes in v2.2:
 
 Enjoy!
 
-Ps: Not risking it
+Ps: Good luck!
