@@ -4,6 +4,12 @@ Phantom Lite for Snapchat on jailed devices. (Doesn't require jailbreak)
 Last updated: 10/28/17 [Link will be always updated on this date]
 
 ```ruby
+Changes in v2.7: (Directions: BUILD STRUCTURE KINDA CHANGED!)
+-- Fixes connection & refresh errors for the time being
+
+```
+
+```ruby
 Changes in v2.6: (Directions: BUILD STRUCTURE CHANGED!)
 -- Snapchat 10.20.1.0 compatibility
 -- Fixes connection & refresh errors for real this time
@@ -37,7 +43,7 @@ Changes in v2.2:
 ```
 1. Delete Snapchat if you have it installed
 2. Find a decrypted copy of Snapchat you'd like to use. v10+
-3. Download PhantomFiles_v?.?.zip file here: https://mega.nz/#!ZjwhibCZ!-eLJOxDw4lkF40BTPaexN2nNApgdPSmCVL1j4cmnWRs
+3. Download PhantomFiles_v?.?.zip file here: https://mega.nz/#!ZzZn3a7R!EGLzKWS01HhuRLVV8PGjgEN63jZJ1i-oHdf_fSTYE40
 4. Rename decrypted Snapchat.ipa file to Snapchat.zip & unzip
 5. Copy PhantomFiles_v?.?.zip to Payload>Snapchat.app & unzip
 6. File structure should look like this:
@@ -46,7 +52,7 @@ Changes in v2.2:
 	/Snapchat.app/
 		/Photon/
 			photon.dylib
-			CydiaSubstrate
+			CSub
 			MoPub.bundle
 			phlite.bundle
 			Languages.bundle
