@@ -62,7 +62,7 @@ Changes in v2.2:
 			
 ```
 7. Open terminal and "cd" to the tools directory inside downloaded zip folder. Ex command: cd /Downloads/PhantomFiles/tools 
-8. Run command: optool install -c load -p "@executable_path/Photon/photon.dylib" -t /Downloads/SnapchatCracked/Payload/Snapchat.app/Snapchat
+8. Run command: [optool](https://github.com/alexzielenski/optool) install -c load -p "@executable_path/Photon/photon.dylib" -t /Downloads/SnapchatCracked/Payload/Snapchat.app/Snapchat
 9. Select Payload, iTunesArtwork/iTunesMetaData.plist if present, then right click & select compress
 10. Install zip file with Cydia Impactor available here: http://www.cydiaimpactor.com
 
